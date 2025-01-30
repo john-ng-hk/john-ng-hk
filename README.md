@@ -40,7 +40,12 @@ I'm a professional cloud consultant and specialize in leveraging cloud technolog
 
 
 ## Featured Projects
-### URL Shortener (https://github.com/john-ng-hk/url-shortener) 
+### [Cloud Billing Portal](https://github.com/john-ng-hk/cloud-billing-portal)
+A serverless application that automates the generation of PDF billing statements for cloud services. It provides a secure, user-friendly interface for uploading billing data, processing it, and generating customized billing statements.
+![image](https://github.com/user-attachments/assets/e00a2fbb-fc70-40f7-8ee4-dfb8c8c0346f)
+
+
+### [URL Shortener](https://github.com/john-ng-hk/url-shortener) 
 A serverless short-lived URL shortener solution with AWS.
 
 **Technologies**: AWS Lambda, API Gateway, DynamoDB, Python
