@@ -56,7 +56,6 @@ A serverless short-lived URL shortener solution with AWS.
 ![alt text](https://raw.githubusercontent.com/john-ng-hk/url-shortener/main/Diagram/URL-Shortener-AWS-Architecture-Diagram.drawio.png)
 
 ## Contact Me
-- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) your.email@example.com
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/john-nch-hk
 
 ## My Numbers
