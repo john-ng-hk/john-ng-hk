@@ -40,6 +40,10 @@ I'm a professional cloud consultant and specialize in leveraging cloud technolog
 
 
 ## Featured Projects
+### [Business Card Scanner: Digitize and Analyze Your Professional Network with AI](https://github.com/john-ng-hk/Biz-card-scanner)
+The Business Card Scanner is a web application that transforms physical business cards into organized digital contacts using AI-powered text extraction and analysis. It helps professionals efficiently manage their network by automatically extracting contact information, categorizing companies by industry, and providing network intelligence through interactive visualizations.
+![image](https://github.com/user-attachments/assets/f946dbd4-a83b-4a96-8e63-9291aa45ea4d)
+
 ### [Cloud Billing Portal](https://github.com/john-ng-hk/cloud-billing-portal)
 A serverless application that automates the generation of PDF billing statements for cloud services. It provides a secure, user-friendly interface for uploading billing data, processing it, and generating customized billing statements.
 ![image](https://github.com/user-attachments/assets/e00a2fbb-fc70-40f7-8ee4-dfb8c8c0346f)
