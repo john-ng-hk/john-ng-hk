@@ -46,14 +46,13 @@ The Business Card Scanner is a web application that transforms physical business
 
 ### [Cloud Billing Portal](https://github.com/john-ng-hk/cloud-billing-portal)
 A serverless application that automates the generation of PDF billing statements for cloud services. It provides a secure, user-friendly interface for uploading billing data, processing it, and generating customized billing statements.
-![image](https://github.com/user-attachments/assets/e00a2fbb-fc70-40f7-8ee4-dfb8c8c0346f)
 
+**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, Textract, LLM, AI, Lambda, S3, CloudFront, ACM
 
 ### [URL Shortener](https://github.com/john-ng-hk/url-shortener) 
 A serverless short-lived URL shortener solution with AWS.
 
-**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python
-![alt text](https://raw.githubusercontent.com/john-ng-hk/url-shortener/main/Diagram/URL-Shortener-AWS-Architecture-Diagram.drawio.png)
+**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, S3, CloudFront, ACM
 
 ## Contact Me
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/john-nch-hk
