@@ -42,17 +42,18 @@ I'm a professional cloud consultant and specialize in leveraging cloud technolog
 ## Featured Projects
 ### [Business Card Scanner: Digitize and Analyze Your Professional Network with AI](https://github.com/john-ng-hk/Biz-card-scanner)
 The Business Card Scanner is a web application that transforms physical business cards into organized digital contacts using AI-powered text extraction and analysis. It helps professionals efficiently manage their network by automatically extracting contact information, categorizing companies by industry, and providing network intelligence through interactive visualizations.
-![image](https://github.com/user-attachments/assets/f946dbd4-a83b-4a96-8e63-9291aa45ea4d)
+
+**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, Textract, LLM, AI, Lambda, S3, CloudFront, ACM, Cognito
 
 ### [Cloud Billing Portal](https://github.com/john-ng-hk/cloud-billing-portal)
 A serverless application that automates the generation of PDF billing statements for cloud services. It provides a secure, user-friendly interface for uploading billing data, processing it, and generating customized billing statements.
 
-**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, Textract, LLM, AI, Lambda, S3, CloudFront, ACM
+**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, Lambda, S3, CloudFront, ACM, Cognito
 
 ### [URL Shortener](https://github.com/john-ng-hk/url-shortener) 
 A serverless short-lived URL shortener solution with AWS.
 
-**Technologies**: AWS Lambda, API Gateway, DynamoDB, Python, S3, CloudFront, ACM
+**Technologies**: AWS Lambda, API Gateway, EventBridge, Python, S3, CloudFront, ACM
 
 ## Contact Me
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/john-nch-hk
